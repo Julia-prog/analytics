@@ -13,9 +13,9 @@ ____
 
 | № | Наименование             | Описание                                  | Стек                      |
 |---|:-------------------------|:------------------------------------------|:--------------------------|
-| 1 | [E-commerce]()           | Выявление профилей потребления            | Pandas,Seaborn,Numpy,Scipy|
-| 2 | [A/B-тест]()             | Оценка результатов A/B-теста              | Pandas,Seaborn,Numpy,Scipy|
-| 3 | [Маркетинговый анализ]() | Для мед.центра: аналитика факторов влияния на стоимость лечения|Pandas,Seaborn,Numpy,Scipy |
+| 1 | [E-commerce](https://github.com/Julia-prog/analytics/blob/main/ecommerce.ipynb)           | Выявление профилей потребления            | Pandas,Seaborn,Numpy,Scipy|
+| 2 | [A/B-тест](https://github.com/Julia-prog/analytics/blob/main/final_AB_test.ipynb)             | Оценка результатов A/B-теста              | Pandas,Seaborn,Numpy,Scipy|
+
     
 </div>
 
