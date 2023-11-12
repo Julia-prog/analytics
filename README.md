@@ -17,6 +17,9 @@ ____
 | 2 | [A/B-тест](https://github.com/Julia-prog/analytics/blob/main/final_AB_test) (УЧЕБНЫЙ)            | Оценка результатов A/B-теста              | Pandas,Seaborn,Numpy,Scipy|
 | 3 | [Games](https://github.com/Julia-prog/analytics/blob/main/games) (УЧЕБНЫЙ)            | Интернет-магазин  продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Цель - выявить определяющие успешность игры закономерности, позволяющие сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.| Python, алгоритмы, pandas, исследовательский анализ данных, SQL, PostgreSQL, статистика, проверка статистических гипотез, A/B-тестy|
 | 4  | ВНЕУЧЕБНЫЙ [Аналитика данных медицинского центра](https://github.com/Julia-prog/analytics/blob/main/medprices)             | Анализ изменения цен на услуги и прибыли по отчету покупок| Pandas, matplotlib.pyplot
+| 5  | ВНЕУЧЕБНЫЙ [Дашборд Looker Studio](https://lookerstudio.google.com/reporting/b978ed2f-8d78-4700-8960-97bdde63531a)             | Изначально брали данные SQL-запросами из BigQuery, затем перенесли в информацию в Google Sheets| Looker Studio
+
+
 
     
 </div>
